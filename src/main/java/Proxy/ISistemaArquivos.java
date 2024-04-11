@@ -1,4 +1,4 @@
-package org.example;
+package Proxy;
 
 public interface ISistemaArquivos {
     String readFile(String fileName, User user);

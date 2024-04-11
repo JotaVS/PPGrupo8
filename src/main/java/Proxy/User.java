@@ -1,4 +1,4 @@
-package org.example;
+package Proxy;
 
 public class User {
 

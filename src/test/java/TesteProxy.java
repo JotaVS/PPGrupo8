@@ -1,7 +1,7 @@
-import org.example.ISistemaArquivos;
-import org.example.LogProxy;
-import org.example.SistemaArquivosReal;
-import org.example.User;
+import Proxy.ISistemaArquivos;
+import Proxy.LogProxy;
+import Proxy.SistemaArquivosReal;
+import Proxy.User;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
